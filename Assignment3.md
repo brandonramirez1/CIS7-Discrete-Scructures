@@ -11,6 +11,7 @@ If mathmatics is easy then the homework is done and if it is sunny then camping 
 | T | F | F  | T  | F        |         |
 | F | T | T  | F  | T        |         |
 | F | F | T  | T  | T        |         |
+  
  ```Part 3```  
 (p ∧ q) → r , p → (q → r ) triple implication  
 ¬(p ∧ q) v r , ¬p v (¬q v r ) demorgans  
