@@ -7,3 +7,4 @@ p' v q <=> p' v q
 (p' v r) ^ (q' v r) <=> (p v q)' v r deMorgan law
 (p' v r) ^ (q' v r) <=> (p' ^ q') v r distributive
 (p' v r) ^ (q' v r) <=> (p' v r) ^ (q' v r) 
+
