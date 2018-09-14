@@ -11,5 +11,5 @@ p' v q <=> p' v q
  Give an interpretation to prove that the following wff is not valid: (Ǝx)A(x) ^ (Ǝx)B(x) -> (Ǝx)(A(x) ^ B(x))  
 x = all phones  
 Ǝx= A phone  
-A(x)= has 256gb of storage  
-B(x)= has 1tb of storage  
+A(x)= has a camera 
+B(x)= doesn't have a camera 
