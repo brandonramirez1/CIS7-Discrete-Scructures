@@ -24,3 +24,5 @@ If mathmatics is easy then the homework is done and if it is sunny then camping 
 (¬q v p ) ^ (¬r v p ), (¬q v p ) ^ (¬r v p )  
   
 ```Part 4```  
+There is a city that all travelers lovebut everyone who lives there doesn’t love.  
+∀x∀y((Traveler(x)∧City(y)∧Live(x,y))→¬Love(x,y))  
